@@ -19,6 +19,13 @@ I build scalable full-stack applications with clean architecture and real-world 
 
 ## 🛠 Tech Stack
 
+## 🧠 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -88,16 +95,9 @@ I build scalable full-stack applications with clean architecture and real-world 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerardovazga&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gerardovazga&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardovazga&layout=compact&theme=tokyonight" />
 </p>
 
 ---
