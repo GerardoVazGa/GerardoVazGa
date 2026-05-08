@@ -23,6 +23,7 @@ I build scalable full-stack applications with clean architecture and real-world 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -35,6 +36,7 @@ I build scalable full-stack applications with clean architecture and real-world 
 ### Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
@@ -87,11 +89,15 @@ I build scalable full-stack applications with clean architecture and real-world 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerardovazga&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gerardovazga&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerardovazga&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=gerardovazga&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerardovazga&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -108,8 +114,17 @@ I build scalable full-stack applications with clean architecture and real-world 
 
 ## 📫 Contact
 
-![Email](https://img.shields.io/badge/email-gerardo.vaz.galindo%40gmail.com-red?style=flat-square)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square)
+<p align="center">
+
+  <a href="mailto:gerardo.vaz.galindo@gmail.com">
+    <img src="https://img.shields.io/badge/email-gerardo.vaz.galindo%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/gerardo-vazquez-galindo-099765305" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</p>
 
 ---
 
